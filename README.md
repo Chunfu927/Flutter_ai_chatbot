@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/cfe5e4a1-2d88-41fa-8325-4cd88d99c278
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/Chunfu927/ai_chatbot
+   git clone https://github.com/Chunfu927/Flutter_ai_chatbot
    cd ai_chatbot
    ```
 
