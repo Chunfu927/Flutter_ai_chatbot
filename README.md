@@ -5,10 +5,6 @@
 app.py是後端，
 LLM_test.py是給你測試模型用的。
 
-成果展示：
-
-https://github.com/user-attachments/assets/cfe5e4a1-2d88-41fa-8325-4cd88d99c278
-
 # ai_chatbot
 
 This project is a Flutter application that allows users to interact with a chat interface and provide feedback through a draggable slider.
@@ -27,6 +23,10 @@ my-flutter-chatgpt-app
 └── backend
     └── app.py                   # Backend logic and API endpoints
 ```
+
+### presentation：
+
+https://github.com/user-attachments/assets/cfe5e4a1-2d88-41fa-8325-4cd88d99c278
 
 ## Setup Instructions
 
