@@ -12,7 +12,7 @@ This project is a Flutter application that allows users to interact with a chat 
 ## Project Structure
 
 ```
-my-flutter-chatgpt-app
+Flutter_ai_chatbot
 ├── lib
 │   ├── main.dart                # Entry point of the Flutter application
 │   ├── screens
