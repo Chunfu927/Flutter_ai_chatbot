@@ -7,7 +7,18 @@ LLM_test.py是給你測試模型用的。
 
 # ai_chatbot
 
-This project is a Flutter application that allows users to interact with a chat interface and provide feedback through a draggable slider.
+An intelligent chatbot built using advanced AI models and Flutter for a seamless user experience that allows users to interact with a chat interface and provide feedback through a draggable slider.
+
+- **Backend:** Python, Flask, Transformers
+- **Frontend:** Flutter
+- **Features:** Real-time chat, feedback system, and more.
+
+[Repository Link](https://github.com/Chunfu927/Flutter_ai_chatbot)
+
+## Usage Guidelines
+
+- **Chat Screen:** Users can send messages and view the conversation history.
+- **Feedback Screen:** Users can adjust a slider to provide feedback and submit it to the backend.
 
 ## Project Structure
 
@@ -56,14 +67,9 @@ https://github.com/user-attachments/assets/cfe5e4a1-2d88-41fa-8325-4cd88d99c278
    flutter run
    ```
 
-## Usage Guidelines
-
-- **Chat Screen:** Users can send messages and view the conversation history.
-- **Feedback Screen:** Users can adjust a slider to provide feedback and submit it to the backend.
-
 ## Contributing
 
-Feel free to submit issues or pull requests for improvements and bug fixes.
+Feel free to submit issues or pull requests for improvements and bug fixes. I appreciate all contributions and feedback!
 
 ## License
 
