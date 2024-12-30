@@ -9,3 +9,63 @@ LLM_test.py是給你測試模型用的。
 
 https://github.com/user-attachments/assets/cfe5e4a1-2d88-41fa-8325-4cd88d99c278
 
+# ai_chatbot
+
+This project is a Flutter application that allows users to interact with a chat interface and provide feedback through a draggable slider.
+
+## Project Structure
+
+```
+my-flutter-chatgpt-app
+├── lib
+│   ├── main.dart                # Entry point of the Flutter application
+│   ├── screens
+│   │   ├── chat_screen.dart     # Chat interface for user interactions
+│   │   └── feedback_screen.dart  # Feedback submission interface
+├── pubspec.yaml                 # Flutter project configuration
+├── README.md                    # Project documentation
+└── backend
+    └── app.py                   # Backend logic and API endpoints
+```
+
+## Setup Instructions
+
+1. **Clone the repository:**
+
+   ```
+   git clone https://github.com/Chunfu927/ai_chatbot
+   cd ai_chatbot
+   ```
+
+2. **Install Flutter dependencies:**
+
+   ```
+   flutter pub get
+   ```
+
+3. **Run the backend server:**
+   Navigate to the `backend` directory and run:
+
+   ```
+   python app.py
+   ```
+
+4. **Run the Flutter application:**
+   In the root directory of the project, execute:
+   ```
+   flutter run
+   ```
+
+## Usage Guidelines
+
+- **Chat Screen:** Users can send messages and view the conversation history.
+- **Feedback Screen:** Users can adjust a slider to provide feedback and submit it to the backend.
+
+## Contributing
+
+Feel free to submit issues or pull requests for improvements and bug fixes.
+
+## License
+
+This project is licensed under the MIT License.
+
