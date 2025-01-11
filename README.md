@@ -36,7 +36,8 @@ Flutter_ai_chatbot
 
 ### presentation：
 
-https://github.com/user-attachments/assets/cfe5e4a1-2d88-41fa-8325-4cd88d99c278
+https://github.com/user-attachments/assets/e7cd006b-9c30-4a25-93d3-7daf9eeddf17
+
 
 ## Setup Instructions
 
